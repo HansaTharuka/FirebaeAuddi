@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865142436406",
+    "firebase_url": "https://hummer-d7cca.firebaseio.com",
+    "project_id": "hummer-d7cca",
+    "storage_bucket": "hummer-d7cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865142436406:android:fd65534e66574916411e97",
+        "android_client_info": {
+          "package_name": "com.example.hummer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865142436406-p3t929ki67vomq9dvgd54d6n223174ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-BFlUHwALs7etSaCPjKpSiHKAdwSjIv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865142436406-p3t929ki67vomq9dvgd54d6n223174ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
